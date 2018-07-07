@@ -1,41 +1,8 @@
-# Permalinks
-permalink:           pretty
-
-# Setup
-title:               Catherine Tong
-tagline:             'Machine Learning, Health, Physics'
-url:                 http://egctong.github.io
-shorturl:            egctong.github.io
-paginate:            1
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
-author:
-  name:              Catherine Tong
-  email:             egctong@gmail.com
-
-# Custom vars
-version:             1.0.0
-github:
-  repo:              https://github.com/egctong/egctong.github.io
-
-
-#header
-pages_list:       
-  About: '/about'
-  Blog: '/blog'
-  CV: '/cv'
-
-
-# Allow URL Redirects: 
-#  * https://help.github.com/articles/redirects-on-github-pages
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+title: Aaron's Wiki
+description: Hello, thanks for visiting my personal wiki.
+show_downloads: false
+is_user_page: true
+markdown: kramdown
+highlighter: rouge
+google_analytics:
+theme:
