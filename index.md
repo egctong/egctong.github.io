@@ -8,7 +8,7 @@ layout: default
 
 I am Catherine Tong, currently a DPhil (PhD) student at the Computer Science Department of University of Oxford.
 
-I am actively researching on neural network related hardware architectures. A list of my previous projects can be found [here](/blog/projects/projects_sum.html).
+I am actively researching on machine learning related work. A list of my previous projects can be found [here](/research/research_index.html).
 
 I keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-date, please have a visit if you are interested in my education/work experience.
 
