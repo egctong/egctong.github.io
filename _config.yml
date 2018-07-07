@@ -6,3 +6,4 @@ markdown: kramdown
 highlighter: rouge
 google_analytics: UA-120380465-1
 theme:
+encoding: UTF-8
