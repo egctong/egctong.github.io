@@ -2,13 +2,11 @@
 layout: default
 ---
 
-<img src="aaron_zhao.png" alt="Aaron Zhao" style="width:150px;height:150px;">
+<img src="ct.png" alt="Catherine Tong" style="width:150px;height:150px;">
 
 # [](#Introduction) About Me
 
-Hello, thanks for visiting my personal wiki.
-
-My name is Aaron Zhao, currently a Phd student at the Computer Lab of University of Cambridge.
+I am Catherine Tong, currently a DPhil (PhD) student at the Computer Science Department of University of Oxford.
 
 I am actively researching on neural network related hardware architectures. A list of my previous projects can be found [here](/blog/projects/projects_sum.html).
 
@@ -16,38 +14,18 @@ I keep my [Linkedin Profile](https://www.linkedin.com/in/yiren-aaron-zhao-baa8b5
 
 
 # [](#interests) Education Background
-* Imperial College London, BEng in Electrical and Electronic Engineering (2013-2016)
-* University of Cambridge, Mphil in Computer Science (2016-2017)
-* University of Cambridge, Phd in Computer Science (2017-present)
+* University of Oxford, DPhil in Computer Science (2017-present)
+* University of Oxford, MPhys in Physics (2013-2017)
 
 # [](#interests) Research Experience
-I have previously worked as the following roles:
 
-* Research Intern at Microsoft Research Cambridge (Summer 2017)
-* Machine learning researcher (Intern) at Ocado 10x Research (Summer 2016)
-* Machine learning consultant at Tangi0 (Summer 2016)
-* Research Assistant at Circuits and Systems Research Group at Imperial College London (Summer 2015)
-* Research Assistant at Radio Frequency Laboratory in University of Electronic Science and Technology of China (Summer 2014)
-
+* Research Intern at Nokia Bell Labs Cambridge (Summer 2017)
 
 # [](#interests) Research Interests
 * Machine Learning
-* High Performance Computing, Reconfigurable Computing, Parallel Computing
-* Computer Architecture
-
-
-I have a mixed education background with study experience in various countries.
-I am a Chinese national, but finished my high school in New Zealand and received the NZ Goveners Award.  
-I obtained a _Bachelor of Engineering_ degree in Electrical and Electronic Engineering at Imperial College London.
-After graduating from Imperial with a top-rank score and being awarded with the _Wills Jackson Metal and Price_,
-I finished a _Master of Philosophy_ degree at the Computer Laboratory of University of Cambridge.
-I am now reading a phd dgree at the Computer Laboratory of University of Cambridge supervised by Dr.Robert Mullins.
 
 # [](#interests) Other Interests
-I have a strong interest in business, currently co-funding HorizonEdu with Tommy Jia. We are interested in helping chinese students to apply for oversea universities.
-
-I am a coffee lover, a guitar player and a kickboxer. I had 5 amature fights, 3 non-decisions, 2 wins and 1 loss. I then stopped competing due to knee injuries.
-I am starting to develop an interest in brazilian jiu jitsu as well.
+I love reading and also enjoy the arts very much. 
 
 <!--
 # [](#projects)Projects
