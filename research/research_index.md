@@ -14,7 +14,7 @@ The 15th ACM International Conference on Mobile Systems, Applications, and Servi
 
 *Deterministic Binary Filters for Convolutional Neural Networks*
 
-V. Tseng, S. Bhattacharya, J. Fernández Marqués, M. Alizadeh, __C. Tong__, N. D. Lane
+V. Tseng, S. Bhattacharya, J. Fernandez Marques, M. Alizadeh, __C. Tong__, N. D. Lane
 
 International Joint Conference on Artificial Intelligence (IJCAI ?18), July 2018, Stockholm,
 Sweden.
@@ -29,7 +29,7 @@ Pervasive and Ubiquitous Computing (UbiComp '18), October 2018, Singapore.
 
 *Diffusing Workers in a Multiplex World*
 
-__C. Tong__, O. Guerrero, E. López, F. Reed-Tsochas
+__C. Tong__, O. Guerrero, E. Lopez, F. Reed-Tsochas
 
 
 
