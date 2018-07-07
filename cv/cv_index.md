@@ -4,4 +4,4 @@ layout: default
 
 # CV
 
-[read my cv](http://python3-cookbook.readthedocs.io/zh_CN/latest)
+[read my cv](https://egctong.github.io/cv/Catherine.pdf)
