@@ -8,7 +8,7 @@ layout: default
 
 I am Catherine Tong, currently a DPhil (PhD) student at the Computer Science Department of University of Oxford.
 
-I am actively researching on machine learning related work. A list of my previous projects can be found [here](/research/research_index.html).
+I am actively researching on machine learning related work. A list of my projects can be found [here](/research/research_index.html).
 
 I keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-date, please have a visit if you are interested in my education/work experience.
 
@@ -22,10 +22,10 @@ I keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-d
 * Research Intern at Nokia Bell Labs Cambridge (Summer 2017)
 
 # [](#interests) Research Interests
-* Machine Learning
+* Machine Learning with healthcare applications. 
 
-# [](#interests) Other Interests
-I love reading and also enjoy the arts very much. 
+<!--# [](#interests) Other Interests
+I love reading and also enjoy the arts very much. -->
 
 <!--
 # [](#projects)Projects
