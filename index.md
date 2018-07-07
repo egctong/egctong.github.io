@@ -10,7 +10,7 @@ I am Catherine Tong, currently a DPhil (PhD) student at the Computer Science Dep
 
 I am actively researching on neural network related hardware architectures. A list of my previous projects can be found [here](/blog/projects/projects_sum.html).
 
-I keep my [Linkedin Profile](https://www.linkedin.com/in/yiren-aaron-zhao-baa8b5116/) up-to-date, please have a visit if you are interested in my education/work experience.
+I keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-date, please have a visit if you are interested in my education/work experience.
 
 
 # [](#interests) Education Background
