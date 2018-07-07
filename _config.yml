@@ -4,5 +4,5 @@ show_downloads: false
 is_user_page: true
 markdown: kramdown
 highlighter: rouge
-google_analytics:
+google_analytics: UA-120380465-1
 theme:
