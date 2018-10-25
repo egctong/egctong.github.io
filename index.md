@@ -6,9 +6,9 @@ layout: default
 
 # [](#Introduction) About Me
 
-I am Catherine Tong, currently a DPhil (PhD) student at the Computer Science Department of University of Oxford.
+I am Catherine Tong, currently a DPhil (PhD) student at University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). 
 
-I am actively researching on machine learning related work. A list of my projects can be found [here](/research/research_index.html).
+I am actively researching on machine learning related work. My research is sponsored by the EPSRC Grant. A list of my projects can be found [here](/research/research_index.html).
 
 I keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-date, please have a visit if you are interested in my education/work experience.
 
@@ -23,6 +23,7 @@ I keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-d
 
 # [](#interests) Research Interests
 * Machine Learning with healthcare applications. 
+* Deep Learning in constained platforms. 
 
 <!--# [](#interests) Other Interests
 I love reading and also enjoy the arts very much. -->
