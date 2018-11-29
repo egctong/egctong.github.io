@@ -6,29 +6,27 @@ layout: default
 
 # [](#Introduction) About Me
 
-I am Catherine Tong, currently a DPhil (PhD) student at University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). My research is sponsored by the EPSRC Grant. A list of my projects can be found [here](/research/research_index.html).
-
-My current research focuses on developing machine learning methods useful for health data analysis. I am interested in using ubiquitous sensing to find connections between people’s daily behaviour and health outcomes. In particular, I seek to develop methods which can leverage other resources, including large-scale health records, multimodal sensor streams and graphs (e.g. knowledge graphs and social networks), to overcome the poor data scenarios often resulted from in-the-wild data collection
-
-
-I keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-date, please have a visit if you are interested in my education/work experience.
-
+I am Catherine Tong, currently a DPhil (PhD) student at University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). My research is sponsored by the EPSRC Grant. A list of my projects can be found [here](/research/research_index.html). I also keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-date. 
 
 # [](#interests) Education Background
 * University of Oxford, DPhil in Computer Science (2017-present)
-* University of Oxford, MPhys in Physics (2013-2017)
+* University of Oxford, MPhys in Physics (2013-2017), First Class Honours
+
+# [](#interests) Research Interests
+
+My current research focuses on developing machine learning methods useful for health data analysis. I am interested in using ubiquitous sensing to find connections between people’s daily behaviour and health outcomes. In particular, I seek to develop methods which can leverage other resources, including large-scale health records, multimodal sensor streams and graphs (e.g. knowledge graphs and social networks), to overcome the poor data scenarios often resulted from in-the-wild data collection
+
+* Ubiquitous health monitoring
+* Machine learning on graphs
+* Ebedding learning of large datasets
+* Multimodal learning
+* Deep Learning in constained platforms
 
 # [](#interests) Research Experience
 
 * Research Intern at [Nokia Bell Labs Cambridge](https://www.bell-labs.com)(Summer 2017)
 * Research Assistant at [Centre for Complex Agent-Based Dynamic Networks (CABDyN) Oxford](https://www.sbs.ox.ac.uk/research/cabdyn) (2016-2017)
 
-# [](#interests) Research Interests
-* Ubiquitous health monitoring
-* Machine learning on graphs
-* Ebedding learning of large datasets
-* Multimodal learning
-* Deep Learning in constained platforms. 
 
 <!--# [](#interests) Other Interests
 I love reading and also enjoy the arts very much. -->
