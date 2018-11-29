@@ -4,13 +4,11 @@ layout: default
 
 <img src="ct.png" alt="Catherine Tong" style="width:150px;height:200px;">
 
-# [](#Introduction) About Me
+<!-- # [](#Introduction) About Me --> 
 
-I am Catherine Tong, currently a DPhil (PhD) student at University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). My research is sponsored by the EPSRC Grant. A list of my projects can be found [here](/research/research_index.html). I also keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-date. 
+I am Catherine Tong, currently a DPhil (PhD) student at University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). 
 
-# [](#interests) Education Background
-* University of Oxford, DPhil in Computer Science (2017-present)
-* University of Oxford, MPhys in Physics (2013-2017), First Class Honours
+<!-- My research is sponsored by the EPSRC Grant. A list of my projects can be found [here](/research/research_index.html). I also keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-date.  -->
 
 # [](#interests) Research Interests
 
@@ -22,10 +20,16 @@ My current research focuses on developing machine learning methods useful for he
 * Multimodal learning
 * Deep Learning in constained platforms
 
+# [](#interests) Education Background
+* University of Oxford, DPhil in Computer Science (2017-present)
+* University of Oxford, MPhys in Physics (2013-2017), First Class Honours
+
 # [](#interests) Research Experience
 
 * Research Intern at [Nokia Bell Labs Cambridge](https://www.bell-labs.com)(Summer 2017)
 * Research Assistant at [Centre for Complex Agent-Based Dynamic Networks (CABDyN) Oxford](https://www.sbs.ox.ac.uk/research/cabdyn) (2016-2017)
+
+
 
 
 <!--# [](#interests) Other Interests
