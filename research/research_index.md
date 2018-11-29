@@ -5,7 +5,7 @@ layout: default
 # [](#nn)Publications 
 
 * Poster: Inference of Big-Five Personality Using Large-scale Networked Mobile
-and Appliance Data. __C. Tong__, GM. Harrari, A. Chieh, O. Bellahsen, M. Vegreville, E. Roitmann, ND. Lane, 2018. The 15th ACM International Conference of Mobile Systems, Applications, and Systems (MobiSys '18). 
+and Appliance Data. __C. Tong__, GM. Harrari, A. Chieh, O. Bellahsen, M. Vegreville, E. Roitmann, ND. Lane, 2018. The 15th ACM International Conference of Mobile Systems, Applications, and Systems (MobiSys '18). [[pdf](https://dl.acm.org/citation.cfm?id=3210823)]
 
 * Deterministic Binary Filters for Convolutional Neural Networks. V. Tseng, S. Bhattacharya, J. Fernandez Marques, M. Alizadeh, __C. Tong__, N. D. Lane, 2018. The 27th International Joint Conference on Artificial Intelligence (IJCAI '18).
 
