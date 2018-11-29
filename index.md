@@ -10,18 +10,13 @@ I am Catherine Tong, currently a DPhil (PhD) student at University of Oxford, un
 
 <!-- My research is sponsored by the EPSRC Grant. A list of my projects can be found [here](/research/research_index.html). I also keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-date.  -->
 
-##### [](#interests) Research Interests
+#### [](#interests) Research Interests
+
+Areas: ubiquitous health monitoring, machine learning on graphs, embedding learning of large datasets, multimodal learning, deep learning in constrained platforms. 
 
 I develop and apply machine learning methods to address problems in healthcare. My recent work focuses on using ubiquitous sensing to find connections between people’s daily behaviour and health outcomes. I am particular interested in developing methods which can leverage other resources, including large-scale health records, multimodal sensor streams and graphs (e.g. knowledge graphs and social networks), to overcome the poor data scenarios often resulted from in-the-wild data collection. 
 
-Areas:
-* Ubiquitous health monitoring
-* Machine learning on graphs
-* Ebedding learning of large datasets
-* Multimodal learning
-* Deep Learning in constained platforms
-
-##### [](#interests) Background
+#### [](#interests) Background
 I originally studied Physics at University of Oxford, as my final year project I worked at [CABDyn Centre](https://www.sbs.ox.ac.uk/research/cabdyn) to analyse labour markets using a diffusion model on complex multiplex networks. Upon completion of my first degree I spent a summer at [Nokia Bell Labs Cambridge](https://www.bell-labs.com) before beginning my PhD in the [Cyber Physical Systems Group](https://www.cs.ox.ac.uk/research/cyberphysical/)  at Oxford. 
 
 
