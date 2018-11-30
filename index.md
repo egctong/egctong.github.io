@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="ct.png" alt="Catherine Tong" style="width:80px;height:80px;">
+<img src="ct.png" alt="Catherine Tong" style="width:40px;height:40px;">
 
 <!-- # [](#Introduction) About Me --> 
 
