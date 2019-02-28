@@ -16,6 +16,7 @@ and Appliance Data. __C. Tong__, GM. Harrari, A. Chieh, O. Bellahsen, M. Vegrevi
 
 # [](#nn)Current Projects
 
+* Understanding How Network Topology Impact Graph Neural Networks
 * Tracking Fatigue and Health State in Multiple Sclerosis Patients Using Ubiquitous Sensing. 
 
 ***
