@@ -6,7 +6,7 @@ layout: default
 
 <!-- # [](#Introduction) About Me --> 
 
-I am Catherine Tong, currently a DPhil (PhD) student at University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). Read my CV [here](https://egctong.github.io/cv/Catherine.pdf). 
+I am Catherine Tong, currently a DPhil (PhD) student at University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). Read my CV [here](https://egctong.github.io/cv/CV_Tong.pdf). 
 
 <!-- My research is sponsored by the EPSRC Grant. A list of my projects can be found [here](/research/research_index.html). I also keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-date.  -->
 
