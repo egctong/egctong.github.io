@@ -16,7 +16,7 @@ layout: default
 
 ## [](#nn) Refereed Workshop Papers
 
-* Are Accelerometers for Activity Recognition a Dead-end? __C. Tong__, S. A. Tailor, N. D. Lane, 2018. *The 21st International Workshop on Mobile Computing Systems and Applications (Hotmobile '20).* 
+* Are Accelerometers for Activity Recognition a Dead-end? __C. Tong__, S. A. Tailor, N. D. Lane, 2018. *The 21st International Workshop on Mobile Computing Systems and Applications (Hotmobile '20).* [[pdf](https://arxiv.org/pdf/2001.08111.pdf)]
 
 
 ## [](#nn) Refereed Posters
@@ -39,7 +39,7 @@ and Appliance Data. __C. Tong__, GM. Harrari, A. Chieh, O. Bellahsen, M. Vegrevi
 Here are some projects that I'm currently working on:
 * Wearable Cameras for Activity Recognition (collaboration with Dr. Aiden Doherty at the Oxford Big Data Institute)
 * Domain Adaptation on inertial sensor data
-* Graph Neural Networks and EHR data
+* Graph Neural Networks on EHR data
 * Understanding How Network Topology Impact Graph Neural Networks
 * .... 
 
