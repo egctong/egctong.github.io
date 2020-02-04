@@ -21,7 +21,7 @@ I develop and apply machine learning methods to model complex human behaviors, w
 
 
 #### [](#interests) Background
-I originally studied Physics at New College, University of Oxford, as my final year project I worked at [CABDyn Centre](https://www.sbs.ox.ac.uk/research/cabdyn) to analyse labour markets using a diffusion model on complex multiplex networks. Upon completion of my first degree I spent a summer at [Nokia Bell Labs Cambridge](https://www.bell-labs.com) before beginning my PhD in the [Cyber Physical Systems Group](https://www.cs.ox.ac.uk/research/cyberphysical/) at Oxford. 
+I originally studied Physics at New College, University of Oxford, as my final year project I worked at [CABDyn Centre](https://www.sbs.ox.ac.uk/research/cabdyn) to analyse labour markets using a diffusion model on complex multiplex networks. Upon completion of my first degree I spent a summer at [Nokia Bell Labs Cambridge](https://www.bell-labs.com) before beginning my PhD in the [Cyber Physical Systems Group](https://www.cs.ox.ac.uk/research/cyberphysical/) at Oxford. Last summer I interned at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). 
 
 
 <!--
