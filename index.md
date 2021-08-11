@@ -4,24 +4,29 @@ layout: default
 
 <img src="ct.png" alt="Catherine Tong" style="width:170px;height:170px;">
 
-<!-- # [](#Introduction) About Me --> 
+I am Catherine Tong, currently a DPhil (PhD) student at University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). I'm also a visiting scholar at the [Cambridge Machine Learning Systems Lab](https://mlsys.cst.cam.ac.uk/), University of Cambridge.
 
-I am Catherine Tong, currently a DPhil (PhD) student at University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). Read my CV [here](https://egctong.github.io/cv/CV_Tong.pdf). 
+Read my CV [here](https://egctong.github.io/cv/CV_Tong.pdf). 
 
-<!-- My research is sponsored by the EPSRC Grant. A list of my projects can be found [here](/research/research_index.html). I also keep my [Linkedin Profile](https://www.linkedin.com/in/tongcatherine/) up-to-date.  -->
 
 #### [](#interests) Research Interests
 
-<!-- Areas: ubiquitous health monitoring, machine learning on graphs, embedding learning of large datasets, multimodal learning, deep learning in constrained platforms. --> 
+I develope techniques which solve interesting problems in the space of Machine Learning for modelling complex human behaviours and health. My recent work includes:
 
-I develop and apply machine learning methods to model complex human behaviors, with a focus on the methods which leverage graphs, multimodalities, and domain knowledge. My recent work includes ubiqutious disease monitoring as well as deep learning architectures for multimodal leanring. 
-
-<!-- My recent work focuses on using ubiquitous sensing to find connections between people’s daily behaviour and health outcomes. I am particular interested in developing methods which can leverage other resources, including large-scale health records, multimodal sensor streams and graphs (e.g. knowledge graphs and social networks), to overcome the poor data scenarios often resulted from in-the-wild data collection.   -->
-
+* [IMUTube](https://arxiv.org/pdf/2006.05675.pdf): a technique which extracts virtual IMU data from videos to solve the data scarcity problem in Human Activity Recognition (HAR).
+* [eICU-GNN-LSTM](https://arxiv.org/pdf/2101.03940.pdf): a graph neural network-based technique which mimics doctors' decision-making process for making clinical decisions on Electronic Health Record (EHR) data.
+* [Ubiquitous patient monitoring](https://egctong.github.io/research/ms.pdf): a study that leverage IoT devices to monitor the health state of Multiple Sclerosis patients
 
 
 #### [](#interests) Background
-I originally studied Physics at New College, University of Oxford, as my final year project I worked at [CABDyn Centre](https://www.sbs.ox.ac.uk/research/cabdyn) to analyse labour markets using a diffusion model on complex multiplex networks. Upon completion of my first degree I spent a summer at [Nokia Bell Labs Cambridge](https://www.bell-labs.com) before beginning my PhD in the [Cyber Physical Systems Group](https://www.cs.ox.ac.uk/research/cyberphysical/) at Oxford. Last summer I interned at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). 
+I originally studied Physics at New College, University of Oxford, as my final year project I worked at [CABDyn Centre](https://www.sbs.ox.ac.uk/research/cabdyn) to analyse labour markets using a diffusion model on complex multiplex networks. Upon completion of my first degree I spent a summer at [Nokia Bell Labs Cambridge](https://www.bell-labs.com) before beginning my PhD in the [Cyber Physical Systems Group](https://www.cs.ox.ac.uk/research/cyberphysical/) at Oxford. In the summer of 2019, I interned at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) and worked on [Project Talia](https://www.microsoft.com/en-us/research/project/project-talia/) under the supervision of Dr Danielle Belgrave. In the summer of 2020, I revisited my Physics roots and did a research sprint on weather forecasting at the [Frontier Development Lab](https://frontierdevelopmentlab.org/).
+
+
+#### [](#interests) Updates
+* [08/2021] I've been awarded the [Google Generation Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/)!
+* [03/2021] Together with Tom Joy and Yuge Shi, we founded [GirlsWhoML](https://twitter.com/GirlsWhoML) and delivered an online Intro to Machine Leanring course to >80 female students.
+* [02/2021] Our [paper](https://arxiv.org/pdf/2101.03940.pdf) received a runner-up Best Short Paper award at the AAAI workshop W3PHAI!
+
 
 
 <!--
