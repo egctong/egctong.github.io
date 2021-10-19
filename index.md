@@ -4,7 +4,7 @@ layout: default
 
 <img src="ct.png" alt="Catherine Tong" style="width:170px;height:170px;">
 
-I am Catherine Tong, a final-year DPhil (PhD) student working on *Human Activity Recognition* at the University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). I'm also a visiting scholar at the [Cambridge Machine Learning Systems Lab](https://mlsys.cst.cam.ac.uk/), University of Cambridge.
+I am Catherine Tong, a final-year PhD student working on *Human Activity Recognition* at the University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). I'm also a visiting scholar at the [Cambridge Machine Learning Systems Lab](https://mlsys.cst.cam.ac.uk/), University of Cambridge.
 
 Read my CV [here](https://egctong.github.io/cv/CV_Tong.pdf). 
 
