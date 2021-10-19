@@ -4,22 +4,9 @@ layout: default
 
 <img src="ct.png" alt="Catherine Tong" style="width:170px;height:170px;">
 
-I am Catherine Tong, currently a DPhil (PhD) student at University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). I'm also a visiting scholar at the [Cambridge Machine Learning Systems Lab](https://mlsys.cst.cam.ac.uk/), University of Cambridge.
+I am Catherine Tong, a final-year DPhil (PhD) student working on *Human Activity Recognition* at the University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). I'm also a visiting scholar at the [Cambridge Machine Learning Systems Lab](https://mlsys.cst.cam.ac.uk/), University of Cambridge.
 
 Read my CV [here](https://egctong.github.io/cv/CV_Tong.pdf). 
-
-
-#### [](#interests) Research Interests
-
-I develope techniques which solve interesting problems in the space of Machine Learning for modelling complex human behaviours and health. My recent work includes:
-
-* [IMUTube](https://arxiv.org/pdf/2006.05675.pdf): a technique which extracts virtual IMU data from videos to solve the data scarcity problem in Human Activity Recognition (HAR).
-* [eICU-GNN-LSTM](https://arxiv.org/pdf/2101.03940.pdf): a graph neural network-based technique which mimics doctors' decision-making process for making clinical decisions on Electronic Health Record (EHR) data.
-* [Ubiquitous patient monitoring](https://egctong.github.io/research/ms.pdf): a study that leverage IoT devices to monitor the health state of Multiple Sclerosis patients
-
-
-#### [](#interests) Background
-I originally studied Physics at New College, University of Oxford, as my final year project I worked at [CABDyn Centre](https://www.sbs.ox.ac.uk/research/cabdyn) to analyse labour markets using a diffusion model on complex multiplex networks. Upon completion of my first degree I spent a summer at [Nokia Bell Labs Cambridge](https://www.bell-labs.com) before beginning my PhD in the [Cyber Physical Systems Group](https://www.cs.ox.ac.uk/research/cyberphysical/) at Oxford. In the summer of 2019, I interned at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) and worked on [Project Talia](https://www.microsoft.com/en-us/research/project/project-talia/) under the supervision of Dr Danielle Belgrave. In the summer of 2020, I revisited my Physics roots and did a research sprint on weather forecasting at the [Frontier Development Lab](https://frontierdevelopmentlab.org/).
 
 
 #### [](#interests) Updates
