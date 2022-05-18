@@ -8,7 +8,7 @@ Below is a selection of research topics and related pulibcations that I've worke
 
 ## [](#nn) Human Activity Recognition
 
-* "Zero-Shot Learning for IMU-Based Activity Recognition Using Video Embeddings" In *IMWUT Volume 5 Issue 4* [[pdf]](https://egctong.github.io/assets/ZSL_camera_ready.pdf)
+* "Zero-Shot Learning for IMU-Based Activity Recognition Using Video Embeddings" In *IMWUT Volume 5 Issue 4* [[pdf]](https://egctong.github.io/assets/zsl.pdf)
 
 * "IMUTube: Virtual on-body Accelerometry from Video for Human Activity Recognition" In *IMWUT Volume 4 Issue 4* [[pdf]](https://arxiv.org/pdf/2006.05675.pdf) [[video]](https://www.youtube.com/watch?v=ZN41C_fOdmk)
 
