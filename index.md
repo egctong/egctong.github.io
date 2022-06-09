@@ -6,6 +6,8 @@ layout: default
 
 I am Catherine Tong, a final-year PhD student working on *Human Activity Recognition* at the University of Oxford, under the supervision of [Dr. Nicholas Lane](http://niclane.org/). I'm also a visiting scholar at the [Cambridge Machine Learning Systems Lab](https://mlsys.cst.cam.ac.uk/), University of Cambridge.
 
+Read my CV [here](https://egctong.github.io/cv/CV_Tong.pdf). 
+
 
 #### [](#interests) Updates
 * [08/2021] I've been awarded the [Google Generation Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/)!
